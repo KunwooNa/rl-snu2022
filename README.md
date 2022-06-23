@@ -1,3 +1,12 @@
+# Description 
+This repository is the sourse code for the team project of "Data Science and Reinforcement Learning" course in SNU. 
+* Following codes are provided by the instructor. 
+    - chain_mdp.py
+    - lava_grid.py
+    - test.py
+    - interaction_chainMDP.py
+    - interaction_lava.py
+
 # How to implement test.py
 
 #### Arguments
